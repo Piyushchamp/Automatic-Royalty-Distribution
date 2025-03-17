@@ -23,5 +23,10 @@ The vision of this project is to **revolutionize the way royalties are distribut
 - **Secure & Tamper-Proof:** Blockchain ensures immutable and verifiable transactions.
 - **Scalable & Flexible:** Supports multiple content types including music, videos, articles, and NFTs.
 - **Real-Time Tracking:** Creators can track their earnings instantly.
+## Contract Address
+0xEb5c51bf1EF3b6d9415e28bFc76078d02A0F7f68
+
+  ![Screenshot (4)](https://github.com/user-attachments/assets/0159d080-5ac4-4718-8441-dc21fc151d8c)
+
 
 
